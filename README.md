@@ -22,7 +22,7 @@ Bienvenido a mi espacio en GitHub, donde comparto mis proyectos, experimentos y 
 
 ### 📈 Estadísticas de GitHub
 
-![SebasDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebastian2759&show_icons=true&theme=radical)
+![Sebastian2759's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebastian2759&show_icons=true&theme=radical)
 
 
 
