@@ -1,10 +1,7 @@
-### Bienvenid@s👋
+# Hola, soy SebasDev 👋
 
 ![image](https://github.com/Sebastian2759/Sebastian2759/assets/45395195/df46cc75-c7de-4a43-ab21-6186a1d141f6)
 
-
-
-# Hola, soy SebasDev 👋
 
 ## Desarrollador de Software apasionado por la tecnología y la innovación
 
