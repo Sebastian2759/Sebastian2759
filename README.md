@@ -30,5 +30,5 @@ Bienvenido a mi espacio en GitHub, donde comparto mis proyectos, experimentos y 
 Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme:
 
 - Email: **forero.sebastian157@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/luis-sebastian-forero-55176a147**
+- LinkedIn: **https://www.linkedin.com/in/lsebasdev/**
 
