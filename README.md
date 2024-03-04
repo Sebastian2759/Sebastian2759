@@ -1,6 +1,7 @@
 ### Bienvenid@s👋
 
-![image](https://github.com/Sebastian2759/Sebastian2759/assets/45395195/43af8c2f-e205-451c-a404-78db0fbac286)
+![image](https://github.com/Sebastian2759/Sebastian2759/assets/45395195/491829f0-5644-47eb-9467-b033c5741992)
+
 
 # Hola, soy SebasDev 👋
 
